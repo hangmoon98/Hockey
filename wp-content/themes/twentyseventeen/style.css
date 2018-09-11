@@ -1653,7 +1653,7 @@ body:not(.title-tagline-hidden) .site-branding-text {
 .has-header-image.home.blog .custom-header,
 .has-header-video.home.blog .custom-header {
 	display: table;
-	height: 300px;
+	height: 100px;
 	height: 75vh;
 	width: 100%;
 }
